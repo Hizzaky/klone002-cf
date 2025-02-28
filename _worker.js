@@ -13,6 +13,7 @@ const พร็อกซีไอพีs = ['167.99.64.81'];
 // 104.248.145.216 // 
 // 47.236.138.212
 // 128.199.213.153
+// 167.99.64.81
 
 // if you want to use ipv6 or single พร็อกซีไอพี, please add comment at this line and remove comment at the next line
 let พร็อกซีไอพี = พร็อกซีไอพีs[Math.floor(Math.random() * พร็อกซีไอพีs.length)];
